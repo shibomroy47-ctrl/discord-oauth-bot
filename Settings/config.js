@@ -17,7 +17,7 @@ module.exports = {
         redirect_uri: "http://93.190.8.234:319/auth/discord/callback",
         scope: ['identify', 'guilds.join'],
         footer: "AuthCord v1.0", // footer
-        serverLink: "https://discord.gg/badge", // server
+        serverLink: "https://discord.gg/eyfDmwDSS7", // server
     },
 
     web: {
